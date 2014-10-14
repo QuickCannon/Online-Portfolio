@@ -1,0 +1,33 @@
+
+header.ariel {
+	background-color: yellow;
+	color: #00FCFF;
+	padding: 10px 20px;
+	text-align: center;
+	font-size: 50px;
+	text-shadow: 2px 2px 2px #000;
+	box-shadow: 10px 10px 5px #888888;
+    border-radius: 25px;
+
+}
+
+p.first{
+	font-family:"Times New Roman", Georgia, Serif;
+	margin-top: 50px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+	margin-left: 100px;
+}
+ul {
+	padding: 10p 0 0 10px;
+	margin: 0 0 0 0;
+	text-decoration: none;
+	list-style-position: inside;
+
+
+
+}
+
+li {
+	float:right;
+}
